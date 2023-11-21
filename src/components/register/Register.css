@@ -1,0 +1,67 @@
+/* Register.css */
+
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .link {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+    color: #007bff;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .register {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  
+  .signin {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .reg,
+  .sig {
+    height: 20px;
+    margin-top: 10px;
+    background-color: #eee;
+  }
+  
